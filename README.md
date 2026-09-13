@@ -87,8 +87,8 @@ This measure calculates year-over-year sales growth, fully responsive to slicer 
 *(Screenshots are in the `screenshots/` folder of this repo)*
 
 ```markdown
-![Dashboard](screenshots/Dashboard_Photo.png)
-![Sales Forecast](screenshots/Sales_Forecast_Photo.png)
+![Dashboard](screenshots/Dashboard.png)
+![Sales Forecast](screenshots/Sales Forecast.png)
 ```
 
 ---
@@ -115,7 +115,7 @@ This measure calculates year-over-year sales growth, fully responsive to slicer 
 
 ## 🙋 About
 
-Built by **[Your Name]** as part of the **SyntecxHub Internship Program** (Data Analysis Track).
+Built by **[Satyam Kumar Singh]** as part of the **SyntecxHub Internship Program** (Data Analysis Track).
 
 🔗 Connect with me on [LinkedIn](#)  
 🌐 [SyntecxHub](https://www.syntecxhub.com)
