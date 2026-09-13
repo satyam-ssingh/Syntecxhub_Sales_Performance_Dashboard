@@ -84,9 +84,6 @@ This measure calculates year-over-year sales growth, fully responsive to slicer 
 
 ## 🖼️ Dashboard Preview
 
-*(Screenshots are in the `screenshots/` folder of this repo)*
-
-
 ![Dashboard](Dashboard.png)
 ![Sales_Forecast](Sales_Forecast.png)
 
