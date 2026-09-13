@@ -10,6 +10,14 @@ This project analyzes a Superstore sales dataset to uncover business insights ar
 
 ---
 
+## 📁 Dataset
+
+**File:** `SuperStore_Sales_Dataset.csv`
+
+The dataset contains transaction-level records of a superstore's sales operations, including order details, shipping information, customer segments, product categories, sales, profit, quantity, and regional data.
+
+---
+
 ## 🎯 Objectives (as per project brief)
 
 - Import and clean the raw sales dataset
@@ -31,7 +39,7 @@ This project analyzes a Superstore sales dataset to uncover business insights ar
 
 ## 🧹 Data Cleaning (Power Query)
 
-The following cleaning steps were applied to the raw dataset before analysis:
+The following cleaning steps were applied to the raw dataset (`SuperStore_Sales_Dataset.csv`) before analysis:
 
 | Step | Description |
 |---|---|
@@ -94,7 +102,8 @@ This measure calculates year-over-year sales growth, fully responsive to slicer 
 | File | Description |
 |---|---|
 | `Sales_Performance_Dashboard.pbix` | Power BI dashboard file |
-| `screenshots/` | Dashboard preview images |
+| `SuperStore_Sales_Dataset.csv` | Raw dataset used for analysis |
+| `Dashboard.png` / `Sales_Forecast.png` | Dashboard preview images |
 | `README.md` | Project documentation |
 
 ---
@@ -111,7 +120,7 @@ This measure calculates year-over-year sales growth, fully responsive to slicer 
 
 ## 🙋 About
 
-Built by **[Satyam Kumar Singh]** as part of the **SyntecxHub Internship Program** (Data Analysis Track).
+Built by **Satyam Kumar Singh** as part of the **SyntecxHub Internship Program** (Data Analysis Track).
 
-🔗 Connect with me on [LinkedIn](#)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/satyam-kumar-singhh)  
 🌐 [SyntecxHub](https://www.syntecxhub.com)
