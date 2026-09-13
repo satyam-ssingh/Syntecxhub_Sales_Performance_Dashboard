@@ -14,9 +14,7 @@ This project analyzes a Superstore sales dataset to uncover business insights ar
 
 **File:** `SuperStore_Sales_Dataset.csv`
 
-The dataset contains transaction-level records of a superstore's sales operations, Row ID+O6G3A1:R6 , Order ID , Order Date	, Ship Date	, Ship Mode , Customer ID , Customer Name , Segment ,	Country	City , State , Region , Product ID , Category , Sub-Category , Product Name	, Sales	, Quantity	, Profit, Returns, Payment Mode.	
-<img width="3336" height="25" alt="image" src="https://github.com/user-attachments/assets/2d904561-408f-404a-a93f-9b212fe7cd7d" />
- and regional data.
+The dataset contains transaction-level records of a superstore's sales operations, including order details, shipping information, customer segments, product categories, sales, profit, quantity, and regional data.
 
 ---
 
